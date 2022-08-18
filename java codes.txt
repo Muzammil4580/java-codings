@@ -1,0 +1,31 @@
+<html>
+<body>
+
+/////     SIMPLE BUTTON TO DISPLAY TEXT     /////
+
+<h2>java script code</h2>
+<button type="button"onclick="document.getElementById('demo').innerHTML= Date()">CLICK ME TO DISPLAY DATE </BUTTON>
+<p>java script time was ready</p>
+<p ID = 'demo'>  </p>
+
+
+/////   BULB ON OFF CODING     /////
+
+
+
+<button type="button" onclick="document.getElementById('demo').innerHTML='java script content'">
+<button onclick="document.getElementById('my_img').src('img bulb gift')>click to switch on the light.</button>
+<button onclick="document.getElementById('my_img').src('img bulb gift')>click to switch off the light.</button>
+<img id="my_img" src="img bulb gift" width="100 pixels">
+
+/////         HIDE THE TEXT CODO        //////
+<p id='demo'>java can hide the text </p>
+<button type="button" onclick="document.getElementById('demo').style.display='none'">
+
+
+
+
+
+</button>
+</body>
+</html>
